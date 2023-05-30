@@ -1,0 +1,101 @@
+{
+    "inmuebles":[
+      {
+        "id": 1,
+        "address": "272 S Rexford Dr, Beverly Hills, CA 90212, USA",
+        "owner": "Hellen Mattis",
+        "type": "house",
+        "price": "320000000",
+        "business": "for sale",
+        "city": "Beverly Hills, CA",
+        "area": "2400 Sq Ft",
+        "parking": 2,
+        "rooms": 5,
+        "bath": 3,
+        "date": "23/05/2023",
+        "image": "https://definicion.de/wp-content/uploads/2010/12/casa.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam quisquam officiis at molestiae qui itaque atque! Odit, repellendus! Tempora magnam voluptas quo sint qui beatae ea quisquam aut vel architecto"
+      },
+      {
+        "id": 2,
+        "address": "272 S Rexford Dr, Beverly Hills, CA 90212, USA",
+        "owner": "Alexis García",
+        "type": "office",
+        "price": "2000000",
+        "business": "for rent",
+        "city": "Cartagena, BOL",
+        "area": "1200 Sq Ft",
+        "parking": 1,
+        "rooms": 2,
+        "bath": 3,
+        "date": "23/05/2023",
+        "image": "https://www.lexington.es/app/uploads/2022/09/Medidas-de-una-oficina-estandar-2.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam quisquam officiis at molestiae qui itaque atque! Odit, repellendus! Tempora magnam voluptas quo sint qui beatae ea quisquam aut vel architecto"
+      },
+      {
+        "id": 3,
+        "address": "272 S Rexford Dr, Beverly Hills, CA 90212, USA",
+        "owner": "Ana Ramírez",
+        "type": "apartment",
+        "price": "3000000",
+        "business": "for rent",
+        "city": "Medellín, ANT",
+        "area": "2000 Sq Ft",
+        "parking": 1,
+        "rooms": 3,
+        "bath": 3,
+        "date": "23/05/2023",
+        "image": "https://cdn.constructoracolpatria.com/images/proyectos_gestor_04d21a4d7a8d126dfccf502d3cd01f54-d.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam quisquam officiis at molestiae qui itaque atque! Odit, repellendus! Tempora magnam voluptas quo sint qui beatae ea quisquam aut vel architecto"
+      },
+      {
+        "id": 4,
+        "address": "272 S Rexford Dr, Beverly Hills, CA 90212, USA",
+        "owner": "Charlotte Munar",
+        "type": "local",
+        "price": "3000000",
+        "business": "for rent",
+        "city": "Medellín, ANT",
+        "area": "2500 Sq Ft",
+        "parking": 1,
+        "rooms": 1,
+        "bath": 3,
+        "date": "23/05/2023",
+        "image": "https://www.angelesdesanrafael.com/wp-content/uploads/2017/05/frentes-modernos-para-locales-comerciales.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam quisquam officiis at molestiae qui itaque atque! Odit, repellendus! Tempora magnam voluptas quo sint qui beatae ea quisquam aut vel architecto"
+      },
+      {
+        "id": 5,
+        "address": "272 S Rexford Dr, Beverly Hills, CA 90212, USA",
+        "owner": "Guillermo Vélez",
+        "type": "house",
+        "price": "3000000",
+        "business": "for rent",
+        "city": "Medellín, ANT",
+        "area": "2500 Sq Ft",
+        "parking": 1,
+        "rooms": 1,
+        "bath": 3,
+        "date": "23/05/2023",
+        "image": "https://images.adsttc.com/media/images/623c/4fa0/3e4b/3145/3000/001b/large_jpg/_d_ambrosio_07._copy.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam quisquam officiis at molestiae qui itaque atque! Odit, repellendus! Tempora magnam voluptas quo sint qui beatae ea quisquam aut vel architecto"
+      }
+    ],
+    "usuarios":[
+        {
+            "id":1,
+            "nombre":"Guillermo Vélez",
+            "email": "guillermo@gmail.com",
+            "password":"12345",
+            "tipo": "admin" 
+        },
+        {
+          "id": 1,
+          "nombre": "Charlotte Munar",
+          "email": "charlotte@gmail.com",
+          "password": "12345",
+          "tipo": "admin"
+        }
+    ],
+    "negocios":[]
+}
